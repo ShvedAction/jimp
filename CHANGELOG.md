@@ -1,3 +1,29 @@
+# v0.16.2 (Tue Jun 28 2022)
+
+#### ⚠️  Pushed to `master`
+
+- `@jimp/jpeg`
+  - update jpeg-js dependenci (shvedujk@gmail.com)
+
+#### Authors: 1
+
+- shved (shvedujk@gmail.com)
+
+---
+
+# v0.16.2 (Tue Jun 28 2022)
+
+#### ⚠️  Pushed to `master`
+
+- `@jimp/jpeg`
+  - update jpeg-js dependenci (shvedujk@gmail.com)
+
+#### Authors: 1
+
+- shved (shvedujk@gmail.com)
+
+---
+
 # v0.16.1 (Fri Aug 28 2020)
 
 #### 🐛 Bug Fix
